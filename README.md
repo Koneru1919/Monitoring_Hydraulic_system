@@ -6,6 +6,6 @@ For more information please refer to https://archive.ics.uci.edu/ml/datasets/Con
 
 The primary task of the given dataset is to analyze the given files (i.e) pre-processing.Various tasks that have been performed in the intial task are described below
 
--- The distribution of each and every input variables are visualised using seaborn library.
+-- Data Analysis, feature engineering and Visualization for the given dataset .
 
--- A dataframe has constructed as a foundation for the neural network.
+-- A dataframe has been constructed as a foundation for the neural network.
